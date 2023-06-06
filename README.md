@@ -4,8 +4,8 @@
 
  ## About Me
 
-🌱 My name is Rita Almeida (@ritaalmeida96), and I currently work as a manual software tester (QA analyst). While my professional experience lies in software testing, my passion for programming was ignited during my high school years. 
-I took a Management and Programming of Computer Systems Professional course, where I delved into various programming languages such as Portugol (algorithms), Pascal, C++, C#, Java, Python, JavaScript, HTML, and CSS.
+🌱 My name is Rita Almeida (@ritaalmeida96), and I currently work as a manual software tester (QA analyst). I have a strong foundation in programming, which began during my high school years when I pursued a professional course to become a Computer Systems Programming technician. 
+During this time, I gained experience in various programming languages, including Portugol (algorithms), Pascal, C++, C#, Java, Python, JavaScript, HTML, and CSS.
 
 ## Interests and Expertise
 
