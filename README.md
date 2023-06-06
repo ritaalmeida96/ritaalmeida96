@@ -1,6 +1,6 @@
 # @ritaalmeida96
 
-👋 Hello, fellow programmers and recruiters! Welcome to my GitHub profile. Allow me to introduce myself and provide you with some insights into my background, experience, and interests.
+👋 Hello, fellow programmers! Welcome to my GitHub profile. Allow me to introduce myself and provide you with some insights into my background, experience, and interests.
 
  ## About Me
 
