@@ -48,9 +48,7 @@
 
 <h2>How to Reach Me</h2>
 <hr>
-<p>📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> . I'm always open to networking and engaging in meaningful conversations.</p>
+<p>📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on LinkedIn. I'm always open to networking and engaging in meaningful conversations.</p>
 
 <h2>Additional Information</h2>
 <hr>
