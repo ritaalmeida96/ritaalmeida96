@@ -20,7 +20,7 @@
 
 
 Programming Languages:
-<span style="background-color: blue; color: white; padding: 5px; border-radius: 5px;">Java</span>
+<span style="background-color: #007ec6; color: white; padding: 5px; border-radius: 5px;">Java</span>
 
 Tools:
 - <span class="skill-label selenium">Selenium</span>
