@@ -18,14 +18,30 @@
 
 <h2>Skills Stack</h2>
 <hr>
-<h3>Programming Languages</h3>
-<p> <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Java</span>, <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Python</span>,  <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">C++</span>,  <span style="background-color: green; color: white; padding: 5px; margin-right: 5px;">C#</span>,  <span style="background-color: orange; color: white; padding: 5px; margin-right: 5px;">JavaScript</span>  </p>
-
-<h3>Tools</h3>
-<p> <span style="background-color: teal; color: white; padding: 5px; margin-right: 5px;">Selenium</span>, <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Cucumber</span>, <span style="background-color: magenta; color: white; padding: 5px; margin-right: 5px;">Playwright</span>, <span style="background-color: black; color: white; padding: 5px; margin-right: 5px;">GitHub</span>, <span style="background-color: gray; color: white; padding: 5px; margin-right: 5px;">Git</span>, <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">Jenkins</span>, <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Postman</span>, <span style="background-color: #0db7ed; color: white; padding: 5px; margin-right: 5px;">Docker</span>, <span style="background-color: #f6c85f; color: black; padding: 5px; margin-right: 5px;">Gherkin</span> </p>
-
-<h3>Methodologies</h3>
-<p> <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Agile Testing</span>,  <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Behavior-Driven Development (BDD)</span>, <span style="background-color: green; color: black; padding: 5px; margin-right: 5px;">Continuos Integration/Continuos Delivery (CI/CD)</span>, <span style="background-color: #eb4034; color: white; padding: 5px; margin-right: 5px;">DevOps</span> </p>
+<p>Programming Languages: 
+  - <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Java</span>, 
+  - <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Python</span>, 
+  - <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">C++</span>, 
+  - <span style="background-color: green; color: white; padding: 5px; margin-right: 5px;">C#</span>, 
+  - <span style="background-color: orange; color: white; padding: 5px; margin-right: 5px;">JavaScript</span>
+</p>
+<p>Tools: 
+  - <span style="background-color: teal; color: white; padding: 5px; margin-right: 5px;">Selenium</span>, 
+  - <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Cucumber</span>,
+  - <span style="background-color: magenta; color: white; padding: 5px; margin-right: 5px;">Playwright</span>,
+  - <span style="background-color: black; color: white; padding: 5px; margin-right: 5px;">GitHub</span>,
+  - <span style="background-color: gray; color: white; padding: 5px; margin-right: 5px;">Git</span>,
+  - <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">Jenkins</span>,
+  - <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Postman</span>,
+  - <span style="background-color: #0db7ed; color: white; padding: 5px; margin-right: 5px;">Docker</span>,
+  - <span style="background-color: #f6c85f; color: black; padding: 5px; margin-right: 5px;">Gherkin</span>
+</p>
+<p>Methodologies: 
+  - <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Agile Testing</span>, 
+  - <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Behavior-Driven Development (BDD)</span>,
+  - <span style="background-color: green; color: black; padding: 5px; margin-right: 5px;">Continuos Integration/Continuos Delivery (CI/CD)</span>,
+  - <span style="background-color: #eb4034; color: white; padding: 5px; margin-right: 5px;">DevOps</span>
+</p>
 
 <h2>How to Reach Me</h2>
 <hr>
