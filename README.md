@@ -16,17 +16,19 @@
 <hr>
 <p>💞️ To enhance my programming skills further, I'm currently working on projects with the guidance of Codecademy. This platform allows me to refresh my memory on various programming languages and explore different aspects of software development. Stay tuned for some exciting projects coming up!</p>
 
-# Skills Stack
 
+<h2>Skills Stack</h2>
 
-Programming Languages:
-<div id="badges">
+<h3>Programming Languages</h3>
+<p><div id="badges">
   <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Selenium-teal?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/></p>
+
+  <h3>Tools</h3>
+  <p><img src="https://img.shields.io/badge/Selenium-teal?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"/>
   <img src="https://img.shields.io/badge/Cucumber-cyan?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber Badge"/>
   <img src="https://img.shields.io/badge/Playwright-magenta?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Badge"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -34,30 +36,15 @@ Programming Languages:
   <img src="https://img.shields.io/badge/Jenkins-purple?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
   <img src="https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/Gherkin-f6c85f?style=for-the-badge&logoColor=black" alt="Gherkin Badge"/>
-  <img src="https://img.shields.io/badge/Agile_Testing-yellow?style=for-the-badge&logoColor=black" alt="Agile Testing Badge"/>
+  <img src="https://img.shields.io/badge/Gherkin-f6c85f?style=for-the-badge&logoColor=black" alt="Gherkin Badge"/></p>
+
+
+  <h3>Methodologies</h3>
+  <p><img src="https://img.shields.io/badge/Agile_Testing-yellow?style=for-the-badge&logoColor=black" alt="Agile Testing Badge"/>
   <img src="https://img.shields.io/badge/BDD-cyan?style=for-the-badge&logoColor=black" alt="BDD Badge"/>
   <img src="https://img.shields.io/badge/CI_CD-green?style=for-the-badge&logoColor=white" alt="CI/CD Badge"/>
-  <img src="https://img.shields.io/badge/DevOps-eb4034?style=for-the-badge&logoColor=white" alt="DevOps Badge"/>
+  <img src="https://img.shields.io/badge/DevOps-eb4034?style=for-the-badge&logoColor=white" alt="DevOps Badge"/></p>
 </div>
-
-Tools:
-- <span class="skill-label selenium">Selenium</span>
-- <span class="skill-label cucumber">Cucumber</span>
-- <span class="skill-label playwright">Playwright</span>
-- <span class="skill-label github">GitHub</span>
-- <span class="skill-label git">Git</span>
-- <span class="skill-label jenkins">Jenkins</span>
-- <span class="skill-label postman">Postman</span>
-- <span class="skill-label docker">Docker</span>
-- <span class="skill-label gherkin">Gherkin</span>
-
-Methodologies:
-- <span class="skill-label agile-testing">Agile Testing</span>
-- <span class="skill-label bdd">Behavior-Driven Development (BDD)</span>
-- <span class="skill-label ci-cd">Continuos Integration/Continuos Delivery (CI/CD)</span>
-- <span class="skill-label devops">DevOps</span>
-
 
 <h2>How to Reach Me</h2>
 <hr>
