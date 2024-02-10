@@ -18,7 +18,7 @@
 
 
 <h2>Skills Stack</h2>
-
+<hr>
 <h3>Programming Languages</h3>
 <p><div id="badges">
   <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
@@ -48,23 +48,13 @@
 
 <h2>How to Reach Me</h2>
 <hr>
-<p>📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on LinkedIn. I'm always open to networking and engaging in meaningful conversations.</p>
+<p>📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> . I'm always open to networking and engaging in meaningful conversations.</p>
 
 <h2>Additional Information</h2>
 <hr>
 <p>I'm enthusiastic about learning and growth, and I'm excited to embark on this programming journey. I'm open to exploring new technologies, methodologies, and projects that align with my interests. Let's connect and build something amazing together!</p>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <p>Thank you for visiting my GitHub profile. I look forward to connecting with you!</p>
 
