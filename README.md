@@ -48,7 +48,17 @@ Methodologies:
 <hr>
 <p>I'm enthusiastic about learning and growth, and I'm excited to embark on this programming journey. I'm open to exploring new technologies, methodologies, and projects that align with my interests. Let's connect and build something amazing together!</p>
 
-https://img.shields.io/badge/LinkedIn-blue
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <p>Thank you for visiting my GitHub profile. I look forward to connecting with you!</p>
 
