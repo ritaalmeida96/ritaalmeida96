@@ -19,11 +19,11 @@
 <h2>Skills Stack</h2>
 <hr>
 <p>Programming Languages: 
-  - <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Java</span>, 
-  - <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Python</span>, 
-  - <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">C++</span>, 
-  - <span style="background-color: green; color: white; padding: 5px; margin-right: 5px;">C#</span>, 
-  - <span style="background-color: orange; color: white; padding: 5px; margin-right: 5px;">JavaScript</span>
+<span class="skill-label java">Java</span>
+- <span class="skill-label python">Python</span>
+- <span class="skill-label cpp">C++</span>
+- <span class="skill-label csharp">C#</span>
+- <span class="skill-label javascript">JavaScript</span>
 </p>
 <p>Tools: 
   - <span style="background-color: teal; color: white; padding: 5px; margin-right: 5px;">Selenium</span>, 
