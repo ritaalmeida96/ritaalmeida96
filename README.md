@@ -16,32 +16,57 @@
 <hr>
 <p>💞️ To enhance my programming skills further, I'm currently working on projects with the guidance of Codecademy. This platform allows me to refresh my memory on various programming languages and explore different aspects of software development. Stay tuned for some exciting projects coming up!</p>
 
-<h2>Skills Stack</h2>
-<hr>
-<p>Programming Languages: 
-<span class="skill-label java">Java</span>
+# Skills Stack
+
+Programming Languages:
+- <span class="skill-label java">Java</span>
 - <span class="skill-label python">Python</span>
 - <span class="skill-label cpp">C++</span>
 - <span class="skill-label csharp">C#</span>
 - <span class="skill-label javascript">JavaScript</span>
-</p>
-<p>Tools: 
-  - <span style="background-color: teal; color: white; padding: 5px; margin-right: 5px;">Selenium</span>, 
-  - <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Cucumber</span>,
-  - <span style="background-color: magenta; color: white; padding: 5px; margin-right: 5px;">Playwright</span>,
-  - <span style="background-color: black; color: white; padding: 5px; margin-right: 5px;">GitHub</span>,
-  - <span style="background-color: gray; color: white; padding: 5px; margin-right: 5px;">Git</span>,
-  - <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">Jenkins</span>,
-  - <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Postman</span>,
-  - <span style="background-color: #0db7ed; color: white; padding: 5px; margin-right: 5px;">Docker</span>,
-  - <span style="background-color: #f6c85f; color: black; padding: 5px; margin-right: 5px;">Gherkin</span>
-</p>
-<p>Methodologies: 
-  - <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Agile Testing</span>, 
-  - <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Behavior-Driven Development (BDD)</span>,
-  - <span style="background-color: green; color: black; padding: 5px; margin-right: 5px;">Continuos Integration/Continuos Delivery (CI/CD)</span>,
-  - <span style="background-color: #eb4034; color: white; padding: 5px; margin-right: 5px;">DevOps</span>
-</p>
+
+Tools:
+- <span class="skill-label selenium">Selenium</span>
+- <span class="skill-label cucumber">Cucumber</span>
+- <span class="skill-label playwright">Playwright</span>
+- <span class="skill-label github">GitHub</span>
+- <span class="skill-label git">Git</span>
+- <span class="skill-label jenkins">Jenkins</span>
+- <span class="skill-label postman">Postman</span>
+- <span class="skill-label docker">Docker</span>
+- <span class="skill-label gherkin">Gherkin</span>
+
+Methodologies:
+- <span class="skill-label agile-testing">Agile Testing</span>
+- <span class="skill-label bdd">Behavior-Driven Development (BDD)</span>
+- <span class="skill-label ci-cd">Continuos Integration/Continuos Delivery (CI/CD)</span>
+- <span class="skill-label devops">DevOps</span>
+
+<style>
+.skill-label {
+  padding: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+.java { background-color: blue; color: white; }
+.python { background-color: yellow; color: black; }
+.cpp { background-color: purple; color: white; }
+.csharp { background-color: green; color: white; }
+.javascript { background-color: orange; color: white; }
+.selenium { background-color: teal; color: white; }
+.cucumber { background-color: cyan; color: black; }
+.playwright { background-color: magenta; color: white; }
+.github { background-color: black; color: white; }
+.git { background-color: gray; color: white; }
+.jenkins { background-color: purple; color: white; }
+.postman { background-color: blue; color: white; }
+.docker { background-color: #0db7ed; color: white; }
+.gherkin { background-color: #f6c85f; color: black; }
+.agile-testing { background-color: yellow; color: black; }
+.bdd { background-color: cyan; color: black; }
+.ci-cd { background-color: green; color: black; }
+.devops { background-color: #eb4034; color: white; }
+</style>
 
 <h2>How to Reach Me</h2>
 <hr>
