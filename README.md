@@ -49,8 +49,7 @@
 <h2>How to Reach Me</h2>
 <hr>
 <p>📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on  <a href="your-linkedin-URL" style="text-decoration: none;">
-    LinkedIn
-  </a> I'm always open to networking and engaging in meaningful conversations.</p>
+    LinkedIn</a>. I'm always open to networking and engaging in meaningful conversations.</p>
 
 <h2>Additional Information</h2>
 <hr>
