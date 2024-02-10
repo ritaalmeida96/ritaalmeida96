@@ -15,19 +15,14 @@ Projects
 💞️ To enhance my programming skills further, I'm currently working on projects with the guidance of Codecademy. This platform allows me to refresh my memory on various programming languages and explore different aspects of software development. Stay tuned for some exciting projects coming up!
 
 Skills Stack
-- Programming Languages: 
-  - <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Java</span>, 
-  - <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Python</span>, 
-  - <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">C++</span>, 
-  - <span style="background-color: green; color: white; padding: 5px; margin-right: 5px;">C#</span>, 
-  - <span style="background-color: orange; color: white; padding: 5px; margin-right: 5px;">JavaScript</span>
-- Tools: 
-  - <span style="background-color: teal; color: white; padding: 5px; margin-right: 5px;">Selenium</span>, 
-  - <span style="background-color: black; color: white; padding: 5px; margin-right: 5px;">GitHub</span>, 
-  - <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">Jenkins</span>
-- Methodologies: 
-  - <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Agile</span>, 
-  - <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Specflow</span>
+Programming Languages: 
+<span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Java</span>,  <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Python</span>,  <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">C++</span>,  <span style="background-color: green; color: white; padding: 5px; margin-right: 5px;">C#</span>,  <span style="background-color: orange; color: white; padding: 5px; margin-right: 5px;">JavaScript</span>
+
+ Tools: 
+  <span style="background-color: teal; color: white; padding: 5px; margin-right: 5px;">Selenium</span>,  <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Cucumber</span>,  <span style="background-color: magenta; color: white; padding: 5px; margin-right: 5px;">Playwright</span>, <span style="background-color: black; color: white; padding: 5px; margin-right: 5px;">GitHub</span>, <span style="background-color: gray; color: white; padding: 5px; margin-right: 5px;">Git</span>, <span style="background-color: purple; color: white; padding: 5px; margin-right: 5px;">Jenkins</span>, <span style="background-color: blue; color: white; padding: 5px; margin-right: 5px;">Postman</span>,  <span style="background-color: #0db7ed; color: white; padding: 5px; margin-right: 5px;">Docker</span>, <span style="background-color: #f6c85f; color: black; padding: 5px; margin-right: 5px;">Gherkin</span>
+  
+Methodologies: 
+   <span style="background-color: yellow; color: black; padding: 5px; margin-right: 5px;">Agile Testing</span>,  <span style="background-color: cyan; color: black; padding: 5px; margin-right: 5px;">Behavior-Driven Development (BDD)</span>, <span style="background-color: green; color: black; padding: 5px; margin-right: 5px;">Continuos Integration/Continuos Delivery (CI/CD)</span>, <span style="background-color: #eb4034; color: white; padding: 5px; margin-right: 5px;">DevOps</span>
 
 How to Reach Me
 📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on LinkedIn. I'm always open to networking and engaging in meaningful conversations.
