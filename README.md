@@ -52,6 +52,7 @@
 <p>I'm enthusiastic about learning and growth, and I'm excited to embark on this programming journey. I'm open to exploring new technologies, methodologies, and projects that align with my interests. Let's connect and build something amazing together!</p>
 
 <p>Thank you for visiting my GitHub profile. I look forward to connecting with you!</p>
+
 <!---
 ritaalmeida96/ritaalmeida96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
