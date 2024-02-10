@@ -48,6 +48,8 @@ Methodologies:
 <hr>
 <p>I'm enthusiastic about learning and growth, and I'm excited to embark on this programming journey. I'm open to exploring new technologies, methodologies, and projects that align with my interests. Let's connect and build something amazing together!</p>
 
+https://img.shields.io/badge/LinkedIn-blue
+
 <p>Thank you for visiting my GitHub profile. I look forward to connecting with you!</p>
 
 <!---
