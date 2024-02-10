@@ -18,12 +18,13 @@
 
 # Skills Stack
 
+
 Programming Languages:
-- <span class="skill-label java">Java</span>
-- <span class="skill-label python">Python</span>
-- <span class="skill-label cpp">C++</span>
-- <span class="skill-label csharp">C#</span>
-- <span class="skill-label javascript">JavaScript</span>
+- :blue_circle: Java
+- :yellow_circle: Python
+- :purple_circle: C++
+- :green_circle: C#
+- :orange_circle: JavaScript
 
 Tools:
 - <span class="skill-label selenium">Selenium</span>
@@ -42,31 +43,6 @@ Methodologies:
 - <span class="skill-label ci-cd">Continuos Integration/Continuos Delivery (CI/CD)</span>
 - <span class="skill-label devops">DevOps</span>
 
-<style>
-.skill-label {
-  padding: 5px;
-  margin-right: 5px;
-  border-radius: 5px;
-}
-.java { background-color: blue; color: white; }
-.python { background-color: yellow; color: black; }
-.cpp { background-color: purple; color: white; }
-.csharp { background-color: green; color: white; }
-.javascript { background-color: orange; color: white; }
-.selenium { background-color: teal; color: white; }
-.cucumber { background-color: cyan; color: black; }
-.playwright { background-color: magenta; color: white; }
-.github { background-color: black; color: white; }
-.git { background-color: gray; color: white; }
-.jenkins { background-color: purple; color: white; }
-.postman { background-color: blue; color: white; }
-.docker { background-color: #0db7ed; color: white; }
-.gherkin { background-color: #f6c85f; color: black; }
-.agile-testing { background-color: yellow; color: black; }
-.bdd { background-color: cyan; color: black; }
-.ci-cd { background-color: green; color: black; }
-.devops { background-color: #eb4034; color: white; }
-</style>
 
 <h2>How to Reach Me</h2>
 <hr>
