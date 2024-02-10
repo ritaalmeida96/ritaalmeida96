@@ -6,15 +6,15 @@
 
 <h2>About Me</h2>
 <hr>
-<p>🌱 My name is Rita Almeida (@ritaalmeida96), and I'm currently transitioning into a role as a Software Engineer in Test. My journey in programming began during high school when I pursued a professional course to become a Computer Systems Programming technician. During this time, I gained experience in various programming languages, including Portugol (algorithms), Pascal, C++, C#, Java, Python, JavaScript, HTML, and CSS.</p>
+<p>🌱 My name is Rita Almeida (@ritaalmeida96), and I'm currently transitioning into a role as a Junior Software Engineer in Test. My journey in programming began during high school when I pursued a professional course to become a Computer Systems Programming technician. During this time, I gained experience in various programming languages, including Portugol (algorithms), C++, C#, Java, Python, JavaScript, HTML, and CSS.</p>
 
 <h2>Interests and Expertise</h2>
 <hr>
-<p>👀 While I thoroughly enjoy software testing, my ultimate goal is to bridge the gap between testing and development by becoming a proficient test automation engineer. I'm focused on using C# with Playwright to automate tests and improve software quality. I believe that combining my testing expertise with programming skills will enable me to contribute to robust and efficient software development processes.</p>
+<p>👀 While I thoroughly enjoy software testing, my ultimate goal is to bridge the gap between testing and development by becoming a proficient test automation engineer. I've completed a Test Automation Academy where I learned about various aspects of test automation, including planning, designing, and executing automated tests, as well as selecting automation tools and approaches. I'm proficient in Python and Java and have experience with automation frameworks like Selenium WebDriver and Cypress. I'm also familiar with Agile methodologies and DevOps concepts, including CI/CD pipelines with Jenkins and GitLab-runner.</p>
 
 <h2>Projects</h2>
 <hr>
-<p>💞️ To enhance my programming skills further, I'm currently working on projects with the guidance of Codecademy. This platform allows me to refresh my memory on various programming languages and explore different aspects of software development. Stay tuned for some exciting projects coming up!</p>
+<p>💞️ To enhance my programming skills further, I've worked on several projects in Python and Java. We utilized Git, Jenkins, and Docker to implement CI/CD pipelines, and I gained experience in full end-to-end automation testing of websites using Selenium, Cucumber, and Playwright. Stay tuned for some exciting projects coming up!</p>
 
 
 <h2>Skills Stack</h2>
