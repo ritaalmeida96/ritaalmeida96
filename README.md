@@ -20,11 +20,7 @@
 
 
 Programming Languages:
-- :blue_circle: Java
-- :yellow_circle: Python
-- :purple_circle: C++
-- :green_circle: C#
-- :orange_circle: JavaScript
+<span style="background-color: blue; color: white; padding: 5px; border-radius: 5px;">Java</span>
 
 Tools:
 - <span class="skill-label selenium">Selenium</span>
