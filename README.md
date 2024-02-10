@@ -10,7 +10,7 @@
 
 <h2>Interests and Expertise</h2>
 <hr>
-<p>👀 While I thoroughly enjoy software testing, my ultimate goal is to bridge the gap between testing and development by becoming a proficient test automation engineer. I'm focused on using Python with Selenium to automate tests and improve software quality. I believe that combining my testing expertise with programming skills will enable me to contribute to robust and efficient software development processes.</p>
+<p>👀 While I thoroughly enjoy software testing, my ultimate goal is to bridge the gap between testing and development by becoming a proficient test automation engineer. I'm focused on using C# with Playwright to automate tests and improve software quality. I believe that combining my testing expertise with programming skills will enable me to contribute to robust and efficient software development processes.</p>
 
 <h2>Projects</h2>
 <hr>
@@ -48,7 +48,7 @@
 
 <h2>How to Reach Me</h2>
 <hr>
-<p>📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on  <a href="your-linkedin-URL" style="text-decoration: none;">
+<p>📫 If you'd like to connect, collaborate, or discuss any opportunities, please feel free to reach out to me on  <a href="https://www.linkedin.com/in/ritaalmeida96/" style="text-decoration: none;">
     LinkedIn</a>. I'm always open to networking and engaging in meaningful conversations.</p>
 
 <h2>Additional Information</h2>
